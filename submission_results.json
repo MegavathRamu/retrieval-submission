@@ -1,0 +1,62 @@
+{
+    "data_scientist.yml": [
+        "6794a616a1a09a48fea716dc",
+        "6794e3437e0084c5fa701ccc",
+        "6796b7663eff0c142a8a3714",
+        "679604eb3eff0c142a83d580",
+        "679583028d90554e606be099",
+        "6795d8be7e0084c5fa791997",
+        "6795b5928d90554e606dc01c",
+        "6794feeb0db3e79256744142",
+        "67955b158d90554e606a63ea",
+        "6795bbfcf9f986ea7fbce6c0"
+    ],
+    "cybersecurity_analyst.yml": [
+        "6795b5928d90554e606dc01c",
+        "6796e7df3e76d5b587357436",
+        "6794da413eff0c142a7a0fef",
+        "6795d56f0db3e792567c5a16",
+        "6794e95673bf14921fa8f8e3",
+        "67967540f9f986ea7fc38999",
+        "6795d8be7e0084c5fa791997",
+        "6796e1b58d90554e6078b0ce",
+        "67948e078d90554e6062bcb4",
+        "6794ce61a1a09a48fea89977"
+    ],
+    "environmental_scientist.yml": [
+        "6795b67052a365d116830553",
+        "6795bbfcf9f986ea7fbce6c0",
+        "67952cd77e0084c5fa72b446",
+        "6794b7b17e0084c5fa6e78c1",
+        "679505fa73bf14921faa0191",
+        "67963e6d3e76d5b5872f76a1",
+        "67955b158d90554e606a63ea",
+        "6794ef3f7e0084c5fa70a71a",
+        "67955d853e76d5b5872775a9",
+        "6795cb837e0084c5fa78c01a"
+    ],
+    "software_engineer_frontend.yml": [
+        "679692418d90554e6075a686",
+        "6795d8be7e0084c5fa791997",
+        "67966feef9f986ea7fc34eac",
+        "6794ce61a1a09a48fea89977",
+        "6794ef3f7e0084c5fa70a71a",
+        "679691203e76d5b58732919b",
+        "6795d56f0db3e792567c5a16",
+        "6795932ca1a09a48feb0325f",
+        "6795bf030db3e792567b7744",
+        "679506d6f9f986ea7fb62fdf"
+    ],
+    "public_health_specialist.yml": [
+        "6795f7613eff0c142a835a2e",
+        "6794fa4f0db3e7925674119d",
+        "6796be010db3e7925684e578",
+        "679731273eff0c142a8e4e30",
+        "67967974a1a09a48feb8ccc4",
+        "67968ab53e76d5b5873251e7",
+        "6795136f8d90554e6067c420",
+        "679507128d90554e60674bbd",
+        "6795d8be7e0084c5fa791997",
+        "6795f49c73bf14921fb3c0dc"
+    ]
+}
