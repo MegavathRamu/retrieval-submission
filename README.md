@@ -6,31 +6,31 @@ LOGIC AND IMPLEMENTATION:
 approch and logic:
 
 
-Data Loading
+1.Data Loading
 
-Connects to a MongoDB database.
+2.Connects to a MongoDB database.
 
-Fetches documents and combines text fields like title, description, and about into a single string per document.
+3.Fetches documents and combines text fields like title, description, and about into a single string per document.
 
-Text Preprocessing
+4.Text Preprocessing
 
-Cleans and standardizes the text (removing special characters, lowercasing, etc.).
+5.Cleans and standardizes the text (removing special characters, lowercasing, etc.).
 
-Embedding Generation
+6.Embedding Generation
 
-Each document's text is passed through a pre-trained embedding model (e.g., OpenAI, Cohere, HuggingFace).
+7.Each document's text is passed through a pre-trained embedding model (e.g., OpenAI, Cohere, HuggingFace).
 
-This produces a fixed-size embedding vector (e.g., 1024 dimensions).
+8.This produces a fixed-size embedding vector (e.g., 1024 dimensions).
 
-All document embeddings are saved for later use.
+9.All document embeddings are saved for later use.
 
-Building the FAISS Index
+10.Building the FAISS Index
 
-FAISS (Facebook AI Similarity Search) is used to build a fast index of all document embeddings.
+11.FAISS (Facebook AI Similarity Search) is used to build a fast index of all document embeddings.
 
-This allows efficient approximate nearest neighbor search.
+12.This allows efficient approximate nearest neighbor search.
 
-Query Embedding and Retrieval
+13:Query Embedding and Retrieval
 
 When a user submits a query:
 
