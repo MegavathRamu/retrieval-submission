@@ -2,6 +2,8 @@ OVERVIEW:
 This project implements a semantic search engine that retrieves the top 100 most relevant documents for a given natural language query. Here's a breakdown of how it works:
 
 
+
+
 LOGIC AND IMPLEMENTATION:
 approch and logic:
 
